@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UmengShare</string>
+
+    <!-- 分享平台标题 -->
+    <string name="umeng_socialize_sina">微博</string>
+    <string name="umeng_socialize_qq">QQ</string>
+    <string name="umeng_socialize_qzone">QQ空间</string>
+    <string name="umeng_socialize_weixin">微信</string>
+    <string name="umeng_socialize_weixin_circle">朋友圈</string>
+</resources>
